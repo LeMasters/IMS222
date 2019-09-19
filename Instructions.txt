@@ -1,0 +1,9 @@
+In the accompanying file (quiz.html), I have taken an HTML5 document previously without error and introduced a total of 10 BLANKS.  Please repair the file by filling in those blanks.
+
+You may use online resources as you like.  I ask only that you please refrain from visiting the original Atlantic article from whence this material is borrowed.
+
+This is a quiz about PRACTICE, as much as it is about CONTENT: As such, I encourage you to use any resources at your disposal to check your work before handing it in.
+
+Once you have fixed the file to your satisfaction, turn it in via Canvas.  You may have as much time as you require to complete the quiz.
+
+If you have any questions, please ask.
